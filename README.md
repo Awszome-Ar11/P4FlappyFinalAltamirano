@@ -1,2 +1,2 @@
-# FlappyBirdP4Altamirano
+# P4FlappyFinalAltamirano
 Flappy Bird game
